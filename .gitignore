@@ -69,3 +69,5 @@ main-debug
 # ===== OS =====
 .DS_Store
 Thumbs.db
+
+build/
